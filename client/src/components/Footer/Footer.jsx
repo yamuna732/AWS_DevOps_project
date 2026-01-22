@@ -125,7 +125,7 @@ const Footer = () => {
           </Col>
           <Col lg="12" className="text-center pt-5">
             <p className="copyright">
-              Copyright {year}, Design and develop by Adarsh. All rights
+              Copyright {year}, Design and develop by Yamuna. All rights
               reserved.{" "}
             </p>
           </Col>
